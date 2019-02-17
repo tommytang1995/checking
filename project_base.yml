@@ -3,4 +3,4 @@ version: 6.3.0
 change_log: true
 spec_options:
   FOO:
-    branch: testing3
+    branch: testing4
